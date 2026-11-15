@@ -1,0 +1,238 @@
+---
+name: Obsidian Pitch
+colors:
+  surface: '#0f1418'
+  surface-dim: '#0f1418'
+  surface-bright: '#353a3e'
+  surface-container-lowest: '#0a0f13'
+  surface-container-low: '#171c20'
+  surface-container: '#1b2024'
+  surface-container-high: '#262b2f'
+  surface-container-highest: '#30353a'
+  on-surface: '#dfe3e9'
+  on-surface-variant: '#bacbb9'
+  inverse-surface: '#dfe3e9'
+  inverse-on-surface: '#2c3135'
+  outline: '#859585'
+  outline-variant: '#3b4a3d'
+  surface-tint: '#00e475'
+  primary: '#75ff9e'
+  on-primary: '#003918'
+  primary-container: '#00e676'
+  on-primary-container: '#00612e'
+  inverse-primary: '#006d35'
+  secondary: '#ffb95f'
+  on-secondary: '#472a00'
+  secondary-container: '#ee9800'
+  on-secondary-container: '#5b3800'
+  tertiary: '#87fac5'
+  on-tertiary: '#003825'
+  tertiary-container: '#69ddaa'
+  on-tertiary-container: '#006042'
+  error: '#ffb4ab'
+  on-error: '#690005'
+  error-container: '#93000a'
+  on-error-container: '#ffdad6'
+  primary-fixed: '#62ff96'
+  primary-fixed-dim: '#00e475'
+  on-primary-fixed: '#00210b'
+  on-primary-fixed-variant: '#005226'
+  secondary-fixed: '#ffddb8'
+  secondary-fixed-dim: '#ffb95f'
+  on-secondary-fixed: '#2a1700'
+  on-secondary-fixed-variant: '#653e00'
+  tertiary-fixed: '#85f8c4'
+  tertiary-fixed-dim: '#68dba9'
+  on-tertiary-fixed: '#002114'
+  on-tertiary-fixed-variant: '#005137'
+  background: '#0f1418'
+  on-background: '#dfe3e9'
+  surface-variant: '#30353a'
+typography:
+  display-hero:
+    fontFamily: Syne
+    fontSize: 56px
+    fontWeight: '800'
+    lineHeight: 64px
+    letterSpacing: -0.03em
+  display-hero-mobile:
+    fontFamily: Syne
+    fontSize: 36px
+    fontWeight: '800'
+    lineHeight: 42px
+    letterSpacing: -0.02em
+  headline-xl:
+    fontFamily: Syne
+    fontSize: 40px
+    fontWeight: '700'
+    lineHeight: 48px
+    letterSpacing: -0.02em
+  headline-xl-mobile:
+    fontFamily: Syne
+    fontSize: 28px
+    fontWeight: '700'
+    lineHeight: 34px
+    letterSpacing: -0.01em
+  headline-lg:
+    fontFamily: Syne
+    fontSize: 28px
+    fontWeight: '700'
+    lineHeight: 36px
+    letterSpacing: -0.01em
+  headline-md:
+    fontFamily: Syne
+    fontSize: 22px
+    fontWeight: '600'
+    lineHeight: 28px
+    letterSpacing: 0em
+  headline-sm:
+    fontFamily: Syne
+    fontSize: 18px
+    fontWeight: '600'
+    lineHeight: 24px
+    letterSpacing: 0.01em
+  body-lg:
+    fontFamily: DM Sans
+    fontSize: 18px
+    fontWeight: '400'
+    lineHeight: 28px
+    letterSpacing: -0.005em
+  body-md:
+    fontFamily: DM Sans
+    fontSize: 15px
+    fontWeight: '400'
+    lineHeight: 22px
+    letterSpacing: 0em
+  body-sm:
+    fontFamily: DM Sans
+    fontSize: 13px
+    fontWeight: '400'
+    lineHeight: 18px
+    letterSpacing: 0.01em
+  label-caps:
+    fontFamily: DM Sans
+    fontSize: 11px
+    fontWeight: '700'
+    lineHeight: 14px
+    letterSpacing: 0.12em
+  label-md:
+    fontFamily: DM Sans
+    fontSize: 13px
+    fontWeight: '500'
+    lineHeight: 16px
+    letterSpacing: 0.02em
+  stat-numeric:
+    fontFamily: Syne
+    fontSize: 32px
+    fontWeight: '800'
+    lineHeight: 36px
+    letterSpacing: -0.02em
+rounded:
+  sm: 0.25rem
+  DEFAULT: 0.5rem
+  md: 0.75rem
+  lg: 1rem
+  xl: 1.5rem
+  full: 9999px
+spacing:
+  gutter: 1.5rem
+  gutter-mobile: 1rem
+  margin: 3rem
+  margin-mobile: 1.25rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 2.5rem
+---
+
+## Brand & Style
+
+The design system embodies the regal grandeur of Kashmir’s alpine valleys fused with the high-octane theatricality of elite world cricket and international high-performance sportswear. It targets visionary athletes, collectors, franchise patrons, and modern sports enthusiasts who view athletic culture through the lens of luxury, craft, and prestige.
+
+The emotional signature is intensely atmospheric, commanding, and cinematic:
+- **Atmospheric Grandeur:** Evoking the tension of floodlit nocturnal cricket arenas framed against crisp mountain air.
+- **Editorial High-Performance:** Merging the razor-sharp functional minimalism of elite apparel labs (e.g., NikeLab, Rapha) with the ornate trophy-room reverence of heritage cricket.
+- **Electric Momentum:** Tactile, glowing accents punctuate vast nocturnal canvases, creating immediate focus during real-time gameplay, auctions, and exclusive drops.
+
+The style is an exacting hybrid of **Cinematic Dark-Mode Luxury** and **Glassmorphic Precision**. Deep obsidian and midnight graphite planes provide infinite depth, while brushed metallic gold and energetic sports emerald accents serve as precise, glowing signifiers of victory, status, and live match momentum.
+
+## Colors
+
+The palette operates in high-contrast nocturnal tiers, deliberately engineered for low-light legibility, broadcast-level drama, and unmistakable luxury.
+
+- **Primary (`#00E676` - Stadium Green):** The electric heartbeat of the brand. Used sparingly for live match telemetry, primary interactive states, match victory markers, and high-impact micro-accents.
+- **Secondary (`#F59E0B` - Brushed Gold / Warm Amber):** Denotes prestige, premier tiering, championship trophies, and VIP community badging.
+- **Tertiary (`#059669` - Alpine Spruce):** Grounded emerald providing depth in duotone surface treatments, card borders under hover, and performance status tags.
+- **Base Canvas (`#0A0D0F` - Midnight Pitch):** Deepest background tone evoking midnight floodlight shadows.
+- **Neutral Surface (`#0E1317` - Obsidian Layer):** Primary container and structural surface background, providing low-frequency contrast against the pitch background.
+- **Support Tones:** Crisp icy white (`#F8FAFC`) reserved for primary editorial headlines and live numeric tallies; muted slate (`#64748B`) for statistical data metadata and passive strokes.
+
+## Typography
+
+The typographic strategy juxtaposes structural high-fashion weight with athletic analytical clarity.
+
+- **Headlines & Expressive Display (Syne):** Provides an avant-garde, sculptural silhouette. Its broad proportions, sharp geometric terminals, and commanding high weights mirror the physical drama of professional stadium arenas and luxury apparel branding.
+- **Body & Data Telemetry (DM Sans):** Delivers uncompromised legibility across complex statistical matrices, live score trackers, editorial roster narratives, and technical apparel specifications.
+- **Monogram and Numbers:** Numeric performance statistics leverage Syne’s tight, deliberate numerals to deliver immediate impact in high-speed mobile glance views.
+- **Uppercase Hierarchy:** All category tags, player positions, match states (e.g., `LIVE`, `INNINGS BREAK`), and micro-labels must be styled using `label-caps` with wide letter-spacing (`0.12em`) to maintain an authoritative military-athletic hierarchy.
+
+## Layout & Spacing
+
+The layout is built upon an architectural 12-column responsive fluid grid designed to display large-format editorial photography, real-time stadium metrics, and bespoke merchandise grids.
+
+### Grid & Breakpoints
+- **Desktop (1280px and above):** 12-column layout with 48px outer canvas margin, 24px column gutters, and a maximum central content constraint of 1440px.
+- **Tablet (768px – 1279px):** 8-column layout with 32px outer canvas margin, 20px column gutters.
+- **Mobile (Up to 767px):** 4-column layout with 20px outer canvas margin, 16px column gutters. High-density stats reflow from side-by-side matrices into horizontal scroll snapping rails.
+
+### Spacing Principles
+- Spacing follows an intentional rhythmic cadence where major narrative panels have expansive breathing room (`space-xl` and higher), reflecting the confidence of elite luxury fashion houses.
+- Interior card components and real-time scoreboard modules use tighter structural tokens (`space-sm` to `space-md`) to ensure critical telemetry remains compact, actionable, and scan-friendly without breaking visual composure.
+
+## Elevation & Depth
+
+Visual hierarchy uses physical stadium darkness, tonal glass stratification, and luminous edge lighting rather than standard drop shadows.
+
+- **Level 0 (Arena Surface):** Raw midnight graphite canvas (`#0A0D0F`), flat and light-absorbing.
+- **Level 1 (Card & Module Foundation):** Solid obsidian tone (`#0E1317`) reinforced by a micro-border of `rgba(255, 255, 255, 0.07)` to establish physical containment without visual clutter.
+- **Level 2 (Floating Action & Navigational Layers):** Glassmorphic frosted surfaces using `rgba(14, 19, 23, 0.75)` with a backdrop blur of `24px`. Edge borders use a top-weighted directional linear gradient fading from `rgba(255, 255, 255, 0.15)` to `rgba(255, 255, 255, 0.02)`.
+- **Level 3 (Modal & Critical Focus):** Elevated obsidian container surrounded by a diffused, tinted halo shadow: `0 20px 50px rgba(0, 0, 0, 0.85), 0 0 30px rgba(0, 230, 118, 0.08)`.
+- **Match Glow Signifiers:** Live events, winning moments, and active states emit a localized radial bloom of Stadium Green (`#00E676`) with a 32px to 48px blur at 15% opacity, simulating the incandescent glow of stadium floodlights through nocturnal mist.
+
+## Shapes
+
+The design system employs a signature **28px curvature** for outer structural elements, framing components with the sculptural finish of high-end aerodynamic athletic equipment and pristine composite materials.
+
+- **Luxury Sports Cards & Major Modals:** Anchored with an exaggerated outer radius of 28px (`rounded-xl` equivalent in component specifications) to establish an unmistakable, high-prestige product identity.
+- **Standard Controls & Interactive Trays:** Base elements utilize `rounded` (0.5rem / 8px) to `rounded-lg` (1rem / 16px), preventing smaller touch targets from feeling excessively bubbly or non-functional.
+- **Tags & Status Pills:** Full pill treatment (9999px) for live badges, tier indicators, and player tags, offering contrast against the larger architectural radius of the cards.
+
+## Components
+
+### Buttons & Interactive Controls
+- **Primary Athletic CTA:** Solid Stadium Green (`#00E676`) fill with ultra-dark obsidian typography (`#0A0D0F`), bold weight (`fontWeight: 700`), 12px vertical padding, 28px horizontal padding, and a micro corner radius of 12px. On hover, it produces an intensified emerald ambient bloom (`0 0 24px rgba(0, 230, 118, 0.45)`).
+- **Secondary Prestige CTA:** Deep graphite fill (`#151B20`), 1px gold metallic border (`rgba(245, 158, 11, 0.4)`), gold typography (`#F59E0B`), transforming on hover to a semi-translucent amber glow.
+- **Ghost Utility Action:** Transparent background with subtle icy white borders (`rgba(255, 255, 255, 0.15)`) and white text, scaling slightly (1.02x) on active touch.
+
+### Luxury Sports Cards
+- Constructed with obsidian background (`#0E1317`), an outer radius of 28px, and an interior padding of 24px.
+- Encased in a hair-thin perimeter outline (`1px solid rgba(255, 255, 255, 0.08)`).
+- Hover states initiate a top-down gradient highlight and lift the card vertically by 4px, accompanied by a subdued emerald or gold outline illumination depending on franchise classification.
+
+### Chips & Match Badges
+- **Live Match Pill:** 9999px pill radius, obsidian glass fill (`rgba(10, 13, 15, 0.8)`), 1px solid border of `#00E676`. Features a synchronized pulsing dot icon (`#00E676`, 6px diameter) alongside uppercase tracking typography.
+- **Trophy & Franchise Tier Badges:** Warm amber tinted surface (`rgba(245, 158, 11, 0.1)`), brushed gold label (`#F59E0B`), and hairline gold borders.
+
+### Input Fields & Search Bars
+- Recessed midnight base (`#07090B`) with an internal inset shadow creating functional depth.
+- Border is a muted slate (`rgba(255, 255, 255, 0.1)`), transitioning to focused Stadium Green (`#00E676`) with a 0 0 12px green diffusion on focus.
+- Placeholder text is set in muted slate (`#64748B`), and active inputs display crisp icy white typography (`#F8FAFC`).
+
+### Checkboxes, Toggles & Radios
+- **Checkboxes & Radios:** Minimalist graphite frames. When selected, they fill with solid `#00E676` featuring an obsidian checkmark or inner core, accompanied by a subtle 4px neon blur.
+- **Switch Toggles:** Heavy obsidian pill track (44px x 24px) with a floating metallic thumb. Active state slides right, shifting the track background from graphite to deep emerald (`#059669`).
+
+### Live Telemetry & Scoreboards
+- Dark glassmorphic floating bar housing live run rates, pitch metrics, and bowler analytics.
+- Distinct split-flap style visual divisions between innings, framed with subtle 1px vertical borders and illuminated numeric typography.

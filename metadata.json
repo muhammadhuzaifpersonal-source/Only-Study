@@ -1,0 +1,6 @@
+{
+  "name": "Zabarwan XI — Obsidian Pitch",
+  "description": "Luxury Kashmir alpine cricket franchise, live match telemetry, patron auction lounge, and high-performance sportswear lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
